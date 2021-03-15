@@ -1,0 +1,4 @@
+#Fri Jan 29 10:51:36 ICT 2021
+base.0=E\:\\Beasiswa Lomba dan Sertifikat\\udacoding\\tugasdaput\\calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Fri Jan 29 15:08:32 ICT 2021
+base.0=E\:\\Beasiswa Lomba dan Sertifikat\\udacoding\\kamusApps\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
