@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077001657140",
+    "firebase_url": "https://clever-aleph-302303-default-rtdb.firebaseio.com",
+    "project_id": "clever-aleph-302303",
+    "storage_bucket": "clever-aleph-302303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077001657140:android:270e8f6a4bacbc15342361",
+        "android_client_info": {
+          "package_name": "com.example.profilsekolahfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077001657140-964nn9u6h7iiub5stn98eni44p5m8co7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.profilsekolahfirebaseapp",
+            "certificate_hash": "0e1ba8a606476b0aa3eab9695d782205f9ad26ed"
+          }
+        },
+        {
+          "client_id": "1077001657140-jo7g4sn0av70bpls1g8mkagodu8jokn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5E6ht9Dm-WaXpv8AWm7r4zhSa6DRzlX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077001657140-jo7g4sn0av70bpls1g8mkagodu8jokn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
